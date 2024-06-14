@@ -1,0 +1,9 @@
+{
+    "companyName": "goMart",
+    "clientID": "322dc763-60fa-42f7-94a3-db09c1b7f285",
+    "clientSecret": "vjKfHHdOpxqZqeIF",
+    "ownerName": "Abinaya P",
+    "ownerEmail": "727721eucs004@skcet.ac.in",
+    "rollNo": "727721eucs004"
+}
+
